@@ -1,2 +1,2 @@
-# energy-consumption-project
+# Energy consumption project
 Predict energy consumption of the residential house
